@@ -1,6 +1,6 @@
 body {
     padding: 0;
-    background: url('../img/main/bg-1.jpg') no-repeat center center/cover;
+    background: url('../img/main/bg-1.png') no-repeat center center/cover;
     margin: 0;
 }
 
@@ -36,11 +36,13 @@ h2 {
 .body__logo {
     position: fixed;
     z-index: 10;
-    width: 80px;
+    width: 120px;
     padding: 0;
-    left: calc(50vw - 40px);
+    left: calc(50vw - 60px);
     top: 40px;
-    height: 80px;
+    border-radius: 50%;
+    padding: 16px;
+    background-color: var(--color1-1);
 }
 
 .body__logo img {

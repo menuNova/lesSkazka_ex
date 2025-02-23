@@ -12,8 +12,8 @@ let sheetsData = {
 };
 
 let indexData = [
-    ['.page__title', 'shakespeare'],
-    ['.page__subtitle', 'coffee & bistro'],
+    ['.page__title', 'Лесная сказка'],
+    ['.page__subtitle', ''],
 ];
 
 let payData = {
