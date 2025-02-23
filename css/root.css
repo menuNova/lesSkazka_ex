@@ -1,24 +1,25 @@
 .light-theme {
     --color0: rgba(255, 255, 255, 0.7);
-    --color1: #f4fbf4;
-    --color1-1: #f4fbf459;
-    --color1-5: #f4fbf4c5;
-    --color2: #b7f9bf;
-    --color3: #2e7d32;
-    --color3-4: #2e7d3235;
+    --color1: #f4f9fb;
+    --color1-1: #f4f9fb59;
+    --color1-5: #f4f9fbc5;
+    --color2: #d0e8d0;
+    --color3: #4a6f4a;
+    --color3-4: #4a6f4a35;
     --color4: #030303;
 }
 
 .dark-theme {
     --color0: rgba(0, 0, 0, 0.7);
-    --color1: #0a2c0a;
-    --color1-1: #0a2c0a59;
-    --color1-5: #0a2c0ac5;
-    --color2: #1b5e20;
-    --color3: #43a047;
-    --color3-4: #43a04735;
-    --color4: #f4fbf4;
+    --color1: #060606;
+    --color1-1: #120f0c59;
+    --color1-5: #150b04c5;
+    --color2: #2e4a2e;
+    --color3: #568856;
+    --color3-4: #56885635;
+    --color4: #f4f9fb;
 }
+
 
 
 
