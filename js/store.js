@@ -68,25 +68,33 @@ let languageData = {
         '#popup_order__cancel': 'Cancel',
         '.popup__button_ok': 'Yes',
         '.popup__button_cancel': 'Cancel',
-        '#surePortions': 'Do you want to remove this portion?',
+        '#cancelOrderSend': 'Cancel sending the order',
         'forJs': {
             total: 'Total',
+            cancelOrderDescription: 'Will be canceled what you ordered in ',
             understand: 'Understand',
-            canceled: 'Cancelled',
-            order: 'Order',
             lang: 'Change Language to',
+            order: 'Order',
+            orderSended: 'Order sent',
+            surePortions: 'Do you want to remove this portion?',
+            canceled: 'Cancelled',
+            cashes: 'Cash',
+            cards: 'Card',
             portion: 'Portion',
+            soonOfficiant: 'The waiter will be with you soon',
             count: 'Count',
             sureOrder: 'Are you sure you want to send the order?',
             cantSendOrder: 'You cannot send an order with an empty cart, but you can press the "Call the waiter" button',
             cantPayOrder: 'You have not yet placed an order to pay for it',
             choosePayOrder: 'Choose a payment method:',
+            payOrdered: 'A waiter will come to you now',
             chooseTable: 'We could not determine your table number. Please enter it',
-            soonOfficiant: 'The waiter will be with you soon',
+            addToOrder: 'Add to order'
         },
         '#payOrder': 'Pay Order',
-    }
+    },
 };
+
 
 
 
